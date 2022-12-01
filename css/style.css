@@ -45,6 +45,19 @@ main {
     top: -5%;
 }
 
+.alterar {
+    margin: 2px;
+    width: 200px;
+}
+
+.botoes {
+   position: relative;
+   right: 5%;
+   bottom: 10%;
+   display: flex;
+}
+
+
 .titulo {
     transform: rotate(180deg);
     font-weight: 500;
