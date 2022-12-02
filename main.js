@@ -91,5 +91,7 @@ function atualizaEstatisticas(peca) {
 
 
 function trocaImagem(cor){
-    document.querySelector(".robo").src="img/Robotron 2000 - " + cor + ".png";
+    document.querySelector(".robo").src="img/Robotron 2000 - " + cor + "/Robotron 2000 - " + cor + ".png";
  }
+
+ //img/Robotron 2000 - Azul/Robotron 2000 - Azul.png

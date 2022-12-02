@@ -57,7 +57,6 @@ main {
    display: flex;
 }
 
-
 .titulo {
     transform: rotate(180deg);
     font-weight: 500;
